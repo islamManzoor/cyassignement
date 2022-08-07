@@ -1,0 +1,18 @@
+[
+  {
+    "email": "cytest1@gmail.com",
+    "password": "Test@123"
+  },
+  {
+    "email": "cytest2@gmail.com",
+    "password": "Test@123"
+  },
+  {
+    "email": "cytest3@gmail.com",
+    "password": "Test@123"
+  },
+  {
+    "email": "cytest4@gmail.com",
+    "password": "Test@123"
+  }
+]
